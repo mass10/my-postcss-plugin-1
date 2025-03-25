@@ -2,7 +2,7 @@
 
 postcss の超簡単なプラグインの例
 
-# Getting started
+# Getting Started
 
 * ローカルインストールで参照
 
